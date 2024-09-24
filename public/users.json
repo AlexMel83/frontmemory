@@ -1,0 +1,16 @@
+[
+  {
+    "nameСoworking": "Kontora",
+    "email": "admin@gmail.com",
+    "password": "0000",
+    "name": "Адміністратор",
+    "roleManager": true
+  },
+  {
+    "email": "user@gmail.com",
+    "password": "0000",
+    "name": "Дмитро",
+    "surname": "Тузков",
+    "roleManager": false
+  }
+]

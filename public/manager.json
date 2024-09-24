@@ -1,0 +1,35 @@
+{
+  "id": 12,
+  "roleManager": true,
+  "nameСoworking": "Kontora",
+  "email": "admin@gmail.com",
+  "password": "0000",
+  "phone": "0930098978",
+  "address": "м.Вінниця, вул.Героїв поліції, 28",
+  "businessDayStart": "08:00",
+  "businessDayEnd": "21:00",
+  "dayOffStart": "09:00",
+  "dayOffEnd": "22:00",
+  "managerInfo": {
+    "name": "Василь",
+    "surname": "Васькович"
+  },
+  "network": [
+    { "id": 2, "title": "viber", "src": "viber.png", "value": "ewdwe/wewed" },
+    {
+      "id": 3,
+      "title": "instagram",
+      "src": "instagram.png",
+      "value": "jknwe/wewed"
+    }
+  ],
+  "coworkingDescription": "Був смажень, і швимкі яски спіралили в кружві, і марамульки йшли в псашки",
+  "workPlaces": 33,
+  "locationSeats": [
+    { "id": 3, "title": "two_rows_of_seats", "src": "two_rows_of_seats.svg" }
+  ],
+  "services": [
+    { "id": 2, "title": "Starlink", "src": "starlink.svg" },
+    { "id": 4, "title": "Укриття", "src": "shelter.svg" }
+  ]
+}

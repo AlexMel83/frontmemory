@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Генератор", "src": "generator.svg" },
+  { "id": 2, "title": "Starlink", "src": "starlink.svg" },
+  { "id": 3, "title": "Швидкісний інтерент", "src": "internet.svg" },
+  { "id": 4, "title": "Укриття", "src": "shelter.svg" },
+  { "id": 5, "title": "Кімната відпочинку", "src": "restroom.svg" }
+]
